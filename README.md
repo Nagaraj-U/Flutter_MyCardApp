@@ -2,10 +2,6 @@
 
 # My Card
 
-
-
-
-
 My Card is a personal business card.
 
 ## It includes demo of following concepts :
