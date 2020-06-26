@@ -8,7 +8,7 @@
 
 My Card is a personal business card.
 
-## It includes demo of following concepts
+## It includes demo of following concepts :
 
 * How to create Stateless Widgets
 * What is the difference between hot reload and hot refresh and running an app from cold
